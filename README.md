@@ -1,2 +1,3 @@
-# Projeto1-DIO-Santander-2024
-Primeiro desafio de um banco no terminal
+# Projetos-DIO-Santander-2024
+## Primeiro desafio: criação de um banco no terminal.
+## Segundo desafio: sistema de validação de processo seletivo.
